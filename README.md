@@ -27,4 +27,4 @@ m ~ P^(2/3) H
 
 ![Tower scaling](Figure/tower_mass_scaling_plot.png)
 
-[Scaling derivation PDF](docs/Derivation%20of%20tower%20scaling.pdf)
+[Scaling derivation PDF](Docs/Derivation%20of%20tower%20scaling.pdf)
