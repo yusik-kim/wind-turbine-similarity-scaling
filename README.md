@@ -25,6 +25,6 @@ m ~ P^(2/3) H
 
 ## Tower mass scaling validation
 
-![Tower scaling](Figure/tower_mass_scaling.png)
+![Tower scaling](Figure/tower_mass_scaling_plot.png)
 
-[Scaling derivation PDF](Docs/Derivation of tower scaling.pdf)
+![Scaling derivation PDF](Docs/Derivation of tower scaling.pdf)
