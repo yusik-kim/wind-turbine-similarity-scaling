@@ -1,0 +1,11 @@
+Category,Turbine,RatedPower_MW,HubHeight_m,TowerMass_t,rotor_diameter_m,blade_mass_t,rotor_mass_t,nacelle_mass_t,RatedRotorSpeed_rpm,Notes
+Reference model,WindPACT 0.75 MW,0.75,60,53.776,50,1.941,12.381,20.95,28.648,WindPACT baseline; tapered steel tube
+Reference model,WindPACT 1.5 MW,1.5,84,125.364,70,4.336,32.167,52.839,20.463,WindPACT baseline; tapered steel tube
+Reference model,WindPACT 3.0 MW,3,119,351.798,99,13.238,101.319,132.598,14.469,WindPACT baseline; tapered steel tube
+Reference model,IEA 3.4 MW,3.37,110,553,130,16.441,77.298,191.85,11.75,IEA Task 37 land-based RWT
+Reference model,NREL 5 MW,5,90,347.46,126,17.74,110,240,12.1,NREL offshore baseline; tower height 87.6 m
+Reference model,WindPACT 5.0 MW,5,154,775.094,128,27.854,209.407,270.669,11.191,WindPACT baseline; tapered steel tube
+Project / commercial,MHI Vestas V164-9.5 MW,9.5,105,291,164,,,,,Moray East project slide; hub height inferred from approx. tip height 187 m minus rotor radius 82 m
+Reference model,DTU 10 MW,10,119,605,178.3,41,229,446,9.6,DTU 10 MW / used as provisional tower mass for IEA 10 MW
+Reference model,IEA 15 MW fixed-bottom,15,150,860,240,65.25,384,631,7.56,IEA 15 MW offshore fixed-bottom RWT
+Reference model,IEA 22 MW fixed-bottom,22,170,1574,284,82.301,367,821,7.061,IEA 22 MW offshore fixed-bottom RWT
